@@ -26,7 +26,7 @@
                 android:layout_gravity="center"
                 android:contentDescription="TODO"
                 android:textAlignment="center"
-                app:srcCompat="@drawable/toolbar_logo" />
+                app:srcCompat="@mipmap/care_logo" />
 
         </android.support.v7.widget.Toolbar>
 

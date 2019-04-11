@@ -83,14 +83,14 @@
 
         <Button
             android:id="@+id/btn_back"
+            style="?android:attr/borderlessButtonStyle"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="10dp"
             android:layout_marginEnd="40dp"
             android:layout_marginStart="40dp"
             android:layout_marginTop="10dp"
-            android:background="@drawable/round_corner"
-            style="?android:attr/borderlessButtonStyle"
+            android:background="@drawable/btn_grad_round_corner"
             android:text="BACK"
             android:textColor="@drawable/txt_round_corner" />
     </LinearLayout>

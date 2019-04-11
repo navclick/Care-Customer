@@ -34,7 +34,7 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent"
                 app:layout_constraintVertical_bias="0.13999999"
-                app:srcCompat="@drawable/ocf_logo" />
+                app:srcCompat="@mipmap/care_logo" />
 
             <EditText
                 android:id="@+id/txt_fullname"
@@ -138,7 +138,7 @@
                 android:layout_marginLeft="40dp"
                 android:layout_marginRight="40dp"
                 android:layout_marginTop="20dp"
-                android:background="@drawable/round_corner"
+                android:background="@drawable/btn_grad_round_corner"
                 android:text="Register Now"
                 android:textAllCaps="false"
                 android:textColor="@drawable/txt_round_corner" />

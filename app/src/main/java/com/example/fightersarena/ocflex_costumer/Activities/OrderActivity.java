@@ -266,9 +266,9 @@ CheckBox checkone,checktwo,checkthree;
 
         if(checkone.isChecked()==true && checktwo.isChecked()==true && checkthree.isChecked() ){
 
-            btnNext.setBackground(ContextCompat.getDrawable(this, R.drawable.round_corner));
+            btnNext.setBackground(ContextCompat.getDrawable(this, R.drawable.btn_grad_round_corner));
             btnNext.setTextColor( getResources().getColor(R.color.colorPrimary));
-            btnAddMoreService.setBackground(ContextCompat.getDrawable(this, R.drawable.round_corner));
+            btnAddMoreService.setBackground(ContextCompat.getDrawable(this, R.drawable.btn_grad_round_corner));
             btnAddMoreService.setTextColor( getResources().getColor(R.color.colorPrimary));
 
 

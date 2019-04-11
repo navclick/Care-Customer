@@ -265,7 +265,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginEnd="40dp"
                     android:layout_marginStart="40dp"
-                    android:background="@drawable/round_corner"
+                    android:background="@drawable/btn_grad_round_corner"
                     android:text="Button"
                     android:textColor="@drawable/txt_round_corner" />
             </LinearLayout>
