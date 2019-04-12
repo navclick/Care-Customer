@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <group android:checkableBehavior="single" android:id="@+id/a-1">
-        <item android:id="@+id/my_orders" android:icon="@mipmap/my_orders"
+        <item android:id="@+id/my_orders" android:icon="@mipmap/my_order"
             android:title="My Orders" />
         <item android:id="@+id/menu_profile" android:icon="@mipmap/edit_profile"
             android:title="Edit Profile" />

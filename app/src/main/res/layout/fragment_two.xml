@@ -32,8 +32,7 @@
                 android:layout_width="32dp"
                 android:layout_height="32dp"
                 android:adjustViewBounds="true"
-                android:scaleType="centerInside"
-                android:src="@drawable/hours" />
+                android:src="@mipmap/business_hours" />
         </LinearLayout>
 
         <LinearLayout
@@ -81,7 +80,7 @@
                 android:id="@+id/imageView2"
                 android:layout_width="32dp"
                 android:layout_height="32dp"
-                android:src="@drawable/faqs" />
+                android:src="@mipmap/faqs" />
 
         </LinearLayout>
 
@@ -128,7 +127,7 @@
                 android:id="@+id/imageView2"
                 android:layout_width="26dp"
                 android:layout_height="36dp"
-                android:src="@drawable/tandc" />
+                android:src="@mipmap/tandc" />
 
         </LinearLayout>
 
@@ -175,7 +174,7 @@
                 android:id="@+id/imageView2"
                 android:layout_width="42dp"
                 android:layout_height="42dp"
-                android:src="@drawable/employment" />
+                android:src="@mipmap/employment_opportunities" />
 
         </LinearLayout>
 
